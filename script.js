@@ -18,7 +18,7 @@ let arr = [
 		img: "https://img.freepik.com/free-photo/portrait-smiling-beautiful-brunette-woman-cute-dress-red-lips-flowers-background-concept-professional-photossesion-modern-greenhouse_7502-8441.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 	},
 	{
-		name: "@Shivani",
+		name: "@Nikitha",
 		like: false,
 		dp: "https://img.freepik.com/free-photo/young-cute-woman-cap-glasses-posing-outside-showing-thumbs-up-high-quality-photo_114579-91847.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 		img: "https://img.freepik.com/premium-photo/portrait-beautiful-young-woman-native-american-costume_1089669-3175.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
@@ -36,7 +36,7 @@ let arr = [
 		img: "https://img.freepik.com/free-photo/pleased-satisfied-young-female-model-makes-zero-gesture-wears-transparent-glasses-has-long-dark-hair_273609-17999.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 	},
 	{
-		name: "Mohsin",
+		name: "@Mohsin",
 		like: true,
 		dp: "https://img.freepik.com/free-photo/portrait-happy-male-with-broad-smile_176532-8175.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 		img: "https://img.freepik.com/free-photo/handsome-man-presenting-something_1368-87.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
